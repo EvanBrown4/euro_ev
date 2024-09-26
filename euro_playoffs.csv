@@ -1,0 +1,16 @@
+home,away,round,game_num,home_norm_points,away_norm_points
+Spain,Hungary,RO16,1,88.305928,70.805144
+Germany,Denmark,RO16,2,80.842332,77.124423
+Portugal,Serbia,RO16,3,90.152785,69.192168
+Netherlands,Ukraine,RO16,4,89.631256,74.090237
+Belgium,Croatia,RO16,5,94.375196,87.729737
+France,Czechia,RO16,6,98.439894,68.051436
+England,Turkey,RO16,7,94.345625,67.555894
+Switzerland,Italy,RO16,8,78.351181,88.046059
+1,2,QF,9,,
+3,4,QF,10,,
+5,6,QF,11,,
+7,8,QF,12,,
+9,10,SF,13,,
+11,12,SF,14,,
+13,14,F,15,,

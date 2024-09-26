@@ -1,0 +1,31 @@
+,0
+0,AFC Asian Cup qualification
+1,Friendly
+2,UEFA Nations League
+3,CONCACAF Nations League
+4,African Cup of Nations qualification
+5,FIFA World Cup qualification
+6,Kirin Cup
+7,COSAFA Cup
+8,EAFF Championship
+9,MSG Prime Minister's Cup
+10,King's Cup
+11,Jordan International Tournament
+12,Kirin Challenge Cup
+13,Baltic Cup
+14,FIFA World Cup
+15,AFF Championship
+16,Gulf Cup
+17,Tri Nation Tournament
+18,UEFA Euro qualification
+19,CAFA Nations Cup
+20,Mauritius Four Nations Cup
+21,Gold Cup qualification
+22,SAFF Cup
+23,Gold Cup
+24,Indian Ocean Island Games
+25,Pacific Games
+26,AFC Asian Cup
+27,African Cup of Nations
+28,FIFA Series
+29,UEFA Euro
