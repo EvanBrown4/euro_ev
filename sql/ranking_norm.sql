@@ -1,3 +1,5 @@
+-- Calculates a normalized score for teams for each date (since scores are cumulative from the beginning of scoring,
+-- and all teams are updated at the same time)
 WITH RankingStats AS (
     SELECT
         *,

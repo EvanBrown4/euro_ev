@@ -1,3 +1,4 @@
+-- Combines the ranking information for the home and away team in each match.
 SELECT
     res.*,
     ranA.total_points AS home_total_points,
